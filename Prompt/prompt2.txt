@@ -1,0 +1,16 @@
+要求に従い、修正後のmain.pyをかけ。
+
+要求：
+    from ClassFiles.AudioLoader import AudioLoader
+    from ClassFiles.AudioSignalProcessor import AudioSignalProcessor
+    from ClassFiles.CSV2MIDIConverter import CSV2MIDIConverter
+    を使うようにして、適切なコードをかけ。
+    コメントアウトは英語でかけ。
+    わかりやすい変数名にせよ。
+    可読性の良いコードをかけ。
+
+AudioSignalProcessor.py：
+
+CSV2MIDIConverter.py：
+
+main.py：
